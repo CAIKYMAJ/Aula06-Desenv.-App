@@ -2,4 +2,7 @@
     <string name="app_name">Aula06</string>
     <string name="nova_tela" />
     <string name="tela_anterior" />
+    <string name="datas_e_calendarios" />
+    <string name="selecione_a_data" />
+    <string name="calendario" />
 </resources>
